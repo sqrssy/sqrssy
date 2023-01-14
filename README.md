@@ -1,8 +1,8 @@
 ### Hi there!
 
-💻 FrontEnd Engineer <br>
-🎓 Undergraduate from China <br>
-☕ Developing with a sense of Design <br>
+💻 Front-End Engineer <br>
+🎓 Undergraduate from Earth <br>
+
 
 ### Contact with me
 
